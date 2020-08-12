@@ -1,4 +1,4 @@
-FROM fluent/fluentd-kubernetes-daemonset:v1-debian-elasticsearch7
+FROM fluent/fluentd-kubernetes-daemonset:v1.11-debian-elasticsearch7-1
 
 USER root
 
